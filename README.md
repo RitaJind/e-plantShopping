@@ -102,6 +102,6 @@ src/
 
 ## 👨‍💻 About the Developer
 
-**Rita Jindal** - Full Stack Developer  
+**Rita Jindal** - Software Engieer  
 
-*Passionate about building modern, user-friendly web applications with clean code and efficient architecture. Experienced in React ecosystem, state management, and responsive design principles.*
+*Passionate about building scalable, secure, and maintainable software solutions. Experienced in microservices architecture, cloud-native, and full-stack software development.*
