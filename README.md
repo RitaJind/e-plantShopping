@@ -1,4 +1,4 @@
-# 🌱 Paradise Nursery - E-Plant Shopping
+#  Paradise Nursery - E-Plant Shopping
 
 A **modern e-commerce plant shopping application** built with React, Redux Toolkit, and Vite for a seamless plant browsing and purchasing experience. This application demonstrates modern React patterns, state management best practices, and responsive design principles.
 
@@ -8,11 +8,11 @@ A **modern e-commerce plant shopping application** built with React, Redux Toolk
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-green.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-## 🚀 Project Overview
+##  Project Overview
 
 Paradise Nursery is a **comprehensive plant e-commerce platform** that allows users to browse various plant categories, learn about their benefits, and manage their shopping cart with ease. Built following **modern React patterns** and **component-based architecture**, it provides an intuitive shopping experience for plant enthusiasts.
 
-### 🏗️ **Architecture Highlights**
+###  **Architecture Highlights**
 - **Component-Based Architecture** - Modular, reusable React components
 - **State Management** - Redux Toolkit for predictable state updates
 - **Modern Build Tools** - Vite for fast development and optimized builds
@@ -20,9 +20,9 @@ Paradise Nursery is a **comprehensive plant e-commerce platform** that allows us
 - **Performance Optimized** - Efficient rendering and state updates
 - **Deployment Ready** - GitHub Pages integration with automated builds
 
-## 📋 Features
+##  Features
 
-### 🛒 **E-Commerce Functionality**
+###  **E-Commerce Functionality**
 - ✅ **Plant Catalog** with 5 specialized categories (30+ plants total)
 - ✅ **Shopping Cart** with add, remove, and quantity management
 - ✅ **Real-time Cart Updates** with Redux state synchronization
@@ -30,21 +30,21 @@ Paradise Nursery is a **comprehensive plant e-commerce platform** that allows us
 - ✅ **Product Details** with high-quality images and descriptions
 - ✅ **Responsive Navigation** between home, catalog, and cart views
 
-### 🌿 **Plant Categories**
+###  **Plant Categories**
 - ✅ **Air Purifying Plants** - Snake Plant, Spider Plant, Peace Lily, Boston Fern, Rubber Plant, Aloe Vera
 - ✅ **Aromatic Fragrant Plants** - Lavender, Jasmine, Rosemary, Mint, Lemon Balm, Hyacinth
 - ✅ **Insect Repellent Plants** - Oregano, Marigold, Geraniums, Basil, Lavender, Catnip
 - ✅ **Medicinal Plants** - Aloe Vera, Echinacea, Peppermint, Lemon Balm, Chamomile, Calendula
 - ✅ **Low Maintenance Plants** - ZZ Plant, Pothos, Snake Plant, Cast Iron Plant, Succulents, Aglaonema
 
-### 🎨 **User Experience Features**
+###  **User Experience Features**
 - ✅ **Welcome Landing Page** with smooth transitions
 - ✅ **About Us Section** with company information
 - ✅ **Interactive UI** with hover effects and smooth animations
 - ✅ **Cart Badge** showing real-time item count
 - ✅ **Responsive Design** optimized for all device sizes
 
-## 🏃‍♂️ Quick Start
+##  Quick Start
 
 ### **Prerequisites**
 - Node.js 18+ 
@@ -66,11 +66,11 @@ npm run dev
 # Visit http://localhost:5173
 ```
 
-## 🌐 Live Demo
+##  Live Demo
 
 Visit the live application: **[Paradise Nursery Live Demo](https://ritajind.github.io/e-plantShopping/)**
 
-## 📱 Application Flow
+##  Application Flow
 
 ### **User Journey**
 1. **Landing Page** - Welcome screen with "Get Started" button
@@ -79,7 +79,7 @@ Visit the live application: **[Paradise Nursery Live Demo](https://ritajind.gith
 4. **Shopping Cart** - Add plants, manage quantities, view totals
 5. **Checkout Ready** - Complete cart management system
 
-## 🏗️ Architecture & Design Patterns
+##  Architecture & Design Patterns
 
 ### **Project Structure**
 ```
@@ -100,7 +100,7 @@ src/
     └── react.svg
 ```
 
-## 👨‍💻 About the Developer
+##  About the Developer
 
 **Rita Jindal** - Software Engieer  
 
